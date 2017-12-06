@@ -1,0 +1,3 @@
+# EazySK
+
+A skript addon.
