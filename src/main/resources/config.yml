@@ -1,0 +1,16 @@
+# EazySK Config File
+
+#The plugin's main prefix.
+Prefix: '&b&lEazySK &8-&7'
+
+# The message you get when you don't have a certain permission (can use variable %perm% below)
+No-Permission-Msg: '&cYou cannot do this! &8(&e%perm%&8)'
+
+# The permission to use the default command.
+Cmd-Perm: 'eazysk.cmd.use'
+
+# The Main GUI's name.
+GUI-Name: '&8EazySK > Overview'
+
+# Do not change the version, this will make sure this config is up to date.
+Version: 0.3

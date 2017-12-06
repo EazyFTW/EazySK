@@ -1,0 +1,11 @@
+name: EazySK
+version: 0.3
+main: com.eazyftw.EazySK
+softdepend: [Skript]
+authors: [EazyFTW]
+description: My first skript addon.
+website: www.eazyftw.com
+commands:
+  eazysk:
+   description: The main command for the plugin eazysk.
+   aliases: ezsk
